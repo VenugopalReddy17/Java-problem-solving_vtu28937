@@ -1,6 +1,6 @@
 interface checkFibonacci
 {
-    long find(int n);
+    long find(int num);
 }
 
 public class Task1_8
