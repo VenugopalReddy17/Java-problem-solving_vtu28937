@@ -1,4 +1,4 @@
-public class Task6 {
+public class Task1_6 {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4};
 
